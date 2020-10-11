@@ -1,5 +1,5 @@
 <template>
-	<div class="project-title row mx-1" @click="toggleOpen = !toggleOpen">
+	<div class="project-title row" @click="toggleOpen = !toggleOpen">
 		<div class="col">
 			<div  :style="{ color: color }">{{title}}</div>
 		</div>
