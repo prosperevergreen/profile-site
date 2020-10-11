@@ -1,5 +1,5 @@
 <template>
-	<div class="home">
+	<div class="home my-5">
 		<app-project-section :projectData="data" v-for="(data,i) in projects" :key="i" />
 	</div>
 </template>

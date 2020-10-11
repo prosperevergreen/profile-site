@@ -5,7 +5,7 @@
       <router-link to="/about">About</router-link>
     </div>
      -->
-		<nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top mb-5">
+		<nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top">
 			<a class="navbar-brand" href="/">𝓜𝔂 𝓓𝓮𝓿 𝔀𝓸𝓻𝓵𝓭</a>
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
