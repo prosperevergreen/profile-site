@@ -1,5 +1,7 @@
 # profile-site
 
+Project is hosted at: [https://prosperevergreen.github.io/site-projects/](https://prosperevergreen.github.io/site-projects/)
+
 ## Project setup
 ```
 npm install
